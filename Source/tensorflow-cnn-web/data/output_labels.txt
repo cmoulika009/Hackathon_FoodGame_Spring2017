@@ -1,0 +1,24 @@
+macaroni and cheese-junk
+cheesecake-junk
+dairy-healthy
+pancakes-junk
+nuts-healthy
+avacodo-healthy
+apple-healthy
+leafy vegetables-healthy
+granolobars-healthy
+pizza-junk
+waffles-junk
+hamburger-junk
+kiwi-healthy
+samosa-junk
+red velvet cake-junk
+strawberry-healthy
+onion rings-junk
+chocolate mousse-junk
+donuts-junk
+dumplings-healthy
+ice cream-junk
+chicken curry-junk
+orange-healthy
+hot dog-junk
